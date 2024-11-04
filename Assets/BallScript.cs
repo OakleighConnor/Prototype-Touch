@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-public class BallScript : TouchScript
+public class BallScript : MonoBehaviour
 {
     /*
     TouchScript Touch = new TouchScript();
